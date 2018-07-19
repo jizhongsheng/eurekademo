@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../EurekaRibbonTest/pom.xml" />
+        <option value="$PROJECT_DIR$/../EurekaRibbonTest/demo_server/pom.xml" />
+        <option value="$PROJECT_DIR$/../EurekaRibbonTest/demo_client/pom.xml" />
+        <option value="$PROJECT_DIR$/../EurekaRibbonTest/demo_client_01/pom.xml" />
+        <option value="$PROJECT_DIR$/../EurekaRibbonTest/demo_ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/../EurekaRibbonTest/demo_feign/pom.xml" />
+        <option value="$PROJECT_DIR$/../EurekaRibbonTest/demo_zuul/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/../EurekaRibbonTest/out" />
+  </component>
+</project>

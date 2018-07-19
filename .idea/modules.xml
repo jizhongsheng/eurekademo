@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EurekaRibbonTest/EurekaRibbonTest.iml" filepath="$PROJECT_DIR$/../EurekaRibbonTest/EurekaRibbonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EurekaRibbonTest/demo_client/demo_client.iml" filepath="$PROJECT_DIR$/../EurekaRibbonTest/demo_client/demo_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EurekaRibbonTest/demo_client_01/demo_client_01.iml" filepath="$PROJECT_DIR$/../EurekaRibbonTest/demo_client_01/demo_client_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EurekaRibbonTest/demo_feign/demo_feign.iml" filepath="$PROJECT_DIR$/../EurekaRibbonTest/demo_feign/demo_feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EurekaRibbonTest/demo_ribbon/demo_ribbon.iml" filepath="$PROJECT_DIR$/../EurekaRibbonTest/demo_ribbon/demo_ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EurekaRibbonTest/demo_server/demo_server.iml" filepath="$PROJECT_DIR$/../EurekaRibbonTest/demo_server/demo_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EurekaRibbonTest/demo_zuul/demo_zuul.iml" filepath="$PROJECT_DIR$/../EurekaRibbonTest/demo_zuul/demo_zuul.iml" />
+    </modules>
+  </component>
+</project>

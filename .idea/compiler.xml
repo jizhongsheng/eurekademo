@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="application" />
+        <module name="demo_client" />
+        <module name="demo_client_01" />
+        <module name="demo_feign" />
+        <module name="demo_ribbon" />
+        <module name="demo_server" />
+        <module name="demo_zuul" />
+        <module name="EurekaRibbonTest" />
+        <module name="zuul_test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="application" target="1.8" />
+      <module name="demo_client" target="1.8" />
+      <module name="demo_client_01" target="1.8" />
+      <module name="demo_feign" target="1.8" />
+      <module name="demo_ribbon" target="1.8" />
+      <module name="demo_server" target="1.8" />
+      <module name="demo_zuul" target="1.8" />
+      <module name="EurekaRibbonTest" target="1.5" />
+      <module name="zuul_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
